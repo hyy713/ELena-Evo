@@ -1,4 +1,7 @@
-这是nut2026赛季整车总装 Elena Evo 版本V0.5_prepare
+这是nut2026赛季整车总装 Elena Evo 版本V0.51_prepare
+
+更新
+更新了方向盘透明视窗
 
 待办事项
 动力水路建模完善
